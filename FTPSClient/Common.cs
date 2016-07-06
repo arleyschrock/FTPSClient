@@ -19,7 +19,7 @@
 using System;
 using System.Security.Authentication;
 
-namespace AlexPilotti.FTPS.Common
+namespace FTPS.Common
 {
     public enum ETransferMode { ASCII, Binary }
 

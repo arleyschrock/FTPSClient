@@ -16,10 +16,10 @@
  *  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA 
  */
 
-using AlexPilotti.FTPS.Common;
+using FTPS.Common;
 using Plossum.CommandLine;
 
-namespace AlexPilotti.FTPS.Client.ConsoleApp
+namespace FTPS.Client.ConsoleApp
 {
     [CommandLineManager(ApplicationName = "Alex FTPS",
                         Copyright = "Copyright (C) Alessandro Pilotti",

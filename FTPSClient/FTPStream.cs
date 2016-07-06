@@ -18,7 +18,7 @@
 
 using System.IO;
 
-namespace AlexPilotti.FTPS.Common
+namespace FTPS.Common
 {
     internal delegate void FTPStreamCallback();
 

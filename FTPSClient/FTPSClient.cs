@@ -27,11 +27,11 @@ using System.Security.Authentication;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.RegularExpressions;
-using AlexPilotti.FTPS.Common;
+using FTPS.Common;
 using System.Threading;
 using System.Runtime.CompilerServices;
 
-namespace AlexPilotti.FTPS.Client
+namespace FTPS.Client
 {
     /// <summary>
     /// The SSL/TLS support requested or required for a connection.

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text.RegularExpressions;
 
-namespace AlexPilotti.FTPS.Common
+namespace FTPS.Common
 {
     /// <summary>
     /// Based on Adarsh's code: http://blogs.msdn.com/adarshk/archive/2004/09/15/230177.aspx

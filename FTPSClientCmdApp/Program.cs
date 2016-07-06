@@ -23,11 +23,11 @@ using System.IO;
 using System.Net;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
-using AlexPilotti.FTPS.Common;
+using FTPS.Common;
 using Plossum.CommandLine;
 using System.Reflection;
 
-namespace AlexPilotti.FTPS.Client.ConsoleApp
+namespace FTPS.Client.ConsoleApp
 {
     enum EInvalidSslCertificateHandling { Refuse, Accept, Prompt }
     enum EX509CertificateExportFormats { Cert, SerializedCert, Pkcs12 }
