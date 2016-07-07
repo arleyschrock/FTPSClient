@@ -2,13 +2,12 @@
 <package >
   <metadata>
     <id>FTPSNETCORE</id>
-    <version>1.0</version>
+    <version>1.0.2</version>
     <title>FTPS .NET Core</title>
     <authors>Arley Schrock</authors>
     <owners>arleyschrock@outlook.com</owners>
     <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <projectUrl>https://github.com/arleyschrock/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>FTPS library for .NET Core - use at your own risk</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
@@ -17,5 +16,6 @@
   </metadata>
   <files>
     <file src="bin\Release\netstandard1.5\FTPS.dll" target="lib\netstandard1.5" />
+    <file src="bin\Release\netstandard1.5\FTPS.deps.json" target="lib\netstandard1.5"/>
   </files>
 </package>
